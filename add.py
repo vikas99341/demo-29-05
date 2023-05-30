@@ -1,6 +1,7 @@
 a = 5
 b = 6
 c = 18
-sum = a + b + c
+d = 9
+sum = a + b + c + d
 
-print "Sum of three numbers is " sum 
+print "Sum of four numbers is " sum 
