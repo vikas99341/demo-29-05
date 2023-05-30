@@ -2,6 +2,7 @@ a = 51
 b = 6
 c = 18
 d = 9
-sum = a + b + c + d
+e = 2
+sum = a + b + c + d + e
 
-print "Sum of four numbers is " sum 
+print "Sum of five numbers is " sum 
